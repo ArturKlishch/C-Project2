@@ -1,0 +1,32 @@
+                         Human
+Name:               Surname:           Sex:
+John                Johnson            Male
+Adam                Masion             Male
+Marta               Losian             Female
+Jacyk               Lakiwski           Male
+Jana                Nobelskaja         Female
+
+                         Аdministrator
+Name:               Surname:           Sex:         Post:
+John                Johnson            Male         Аdministrator
+Marta               Losian             Female       Аdministrator
+
+                         Citizen
+
+Name:               Surname:           Sex:         Password(PassId):       address:
+John                Johnson            Male         A101ksd1233             London
+Adam                Masion             Male         S621vkaI260             London
+Marta               Losian             Female       X821las1995             London
+
+
+
+                         Foreign Citizen
+Name:               Surname:           Sex:         Password(numbOfFlight):       address:    ForeignPassport:  visaOpen:    visaClose:
+Jacyk               Lakiwski           Male         JW3599301Q                    London       023329032JJK        02.02.2020      03.03.2024
+Jana                Nobelskaja         Female       SC3549300P                    Boston       SWQ4153S241K        12.09.2017      30.06.2021
+ 
+                         Flights
+
+internationFlight:          landingOpen:         landingClose:          FlightFrom:    FlightTo:
+JW3599301Q                  19.05.2021            20.05.2021               London            Boston
+SC3549300P                  21.05.2021            22.05.2021               Boston            London
